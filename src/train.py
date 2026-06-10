@@ -39,7 +39,8 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 # Model
 model = RandomForestRegressor(
-    n_estimators=100,
+    n_estimators=50,
+    max_depth=10,
     random_state=42,
     n_jobs=-1
 )
