@@ -105,6 +105,9 @@ reports/
 - Automated Reporting
 
 ---
+##live demo link
+
+https://rossmann-predictive-analytics-ejfeauxeqsufrtgy63thud.streamlit.app/
 
 ## Author
 
